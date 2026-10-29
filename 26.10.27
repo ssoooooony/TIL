@@ -1,0 +1,10 @@
+1.git init -> 깃아 너 이거 실행해! 명령어
+git add . -> 이거 추가해 명령어
+git commit -m -> 무얼 수정했는지 메모용 저장+기록확정하기 
+git log -> 내역 기록 보여주기 어떤걸 커밋했는지!
+git status -> 지금상태확인하기
+git branxh -M main -> 기본 브랜치 이름을 main으로 바꾸기 
+git push -> git hub 에 올리기
+git remote add origin 주소 복붙
+git remote -v 해서 패치 푸쉬 나오는지 보기?
+
